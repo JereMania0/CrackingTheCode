@@ -1,2 +1,2 @@
 # CrackingTheCode
-Will fill in later
+Hawken Spring Intensive 2024
